@@ -205,17 +205,19 @@ footer
     padding-bottom: 1.2em;
 }
 
-footer p
-{
+footer p {
     color: #FFFFFF;
     margin-top: 30px;
     margin-left: 20px;
 }
 
-.social
-{
+.social a {
     padding-top: 22px;
-    font-size: 2.3em;
+}
+
+.social a {
+  font-size: 2.3em;
+  color: #fff;
 }
 
 
